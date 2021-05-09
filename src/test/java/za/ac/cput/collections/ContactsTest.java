@@ -87,5 +87,4 @@ class ContactsTest {
         assertEquals(list.get(0), 2245455);
     }
 
-
 }
