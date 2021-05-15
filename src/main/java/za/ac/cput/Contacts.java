@@ -1,4 +1,4 @@
-package za.ac.cput.collections;
+package za.ac.cput;
 
 import java.util.*;
 
